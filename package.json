@@ -9,9 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.24.0"
+    "geolocation": "^0.2.0",
+    "moment": "^2.24.0",
+    "pokemon": "^2.0.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "babel-loader": "^8.0.6",
     "webpack": "^4.32.2",
     "webpack-cli": "^3.3.2"
   }
